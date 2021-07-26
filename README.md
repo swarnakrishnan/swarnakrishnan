@@ -1,38 +1,22 @@
 <h1 style="text-align:center;"><b>Hello World!! 👋</b></h1>
-<img src="https://i.pinimg.com/236x/a0/d8/d3/a0d8d396ff075c097d48421a5b7a2a63--cute-paintings-veronica.jpg" class="center" alt="Techie girl">
 <ul>
-  <li>I am <a href="<a href="https://www.linkedin.com/in/swarna-krishnan-863538170/">Swarna Krishnan K 😃</a> a 3rd year student of Computer Science and Engineering with a Specialization in Cyber security and Forensics.</li>
-  <li>I am a member and mentor at Facebook Developers Circle, An Expert at WeCBR,Campus collaborator at Xcelero and Salesforce at Have fun Solving.</li>
-  <li>I have done a few projects related to python, NLP, automation and others 🤩 🎈.</li>
-  <li>I am currently brushing up my skills in Web Development, Ethical hacking and Data Science 📚📈🔬.</li>
-  <li>I am trying to contribute in the open source 💻.</li>
-  <li>Pronouns: She 😄</li>
+  <li>I am <a href="<a href="https://www.linkedin.com/in/swarna-krishnan-863538170/">Swarna Krishnan K 😃</a> a senior year student of Computer Science and Engineering with a Specialization in Cyber security and Forensics.</li>
+  <li>I am a member and mentor at Facebook Developers Circle, Microsoft Learn Student Ambassador and Postman Student Expert.</li>
+  <li>I am a receipient of Black Hat USA 2021 Scholarship and GHC'21 Scholarship.</li>
+  <li>I am currently learning Web Penetration Testing, Network Security and Computer Forensics.</li>
+  <li>Pronouns: She/Her/Hers 😄</li>
   <li>My belief: <blockquote> Never compare with others, Remember the perspectives are always different. </blockquote>  
   <li>Connect with me on:
     <ul>
     <li>LinkedIn: https://www.linkedin.com/in/swarna-krishnan-863538170/</li>
-    <li>Facebook: https://www.facebook.com/swarna.krishnan.10?ref=bookmarks</li>
-    <li>Instagram: https://www.instagram.com/swarnakrishnan93/?hl=en</li>
     <li>Twitter: https://twitter.com/SwarnaKrishnan7</li>
-    <li>Website: https://tdummies.blogspot.com/</li>
     </ul>
     </li>   
 </ul>
-    <h2>Technologies</h2>
-    <ul>
-    <li>Python</li>
-    <li>C/C++</li>
-    <li>Data Analysis</li>
-    <li>Security Analysis</li>
-    <li>Software Development(C++)</li>
-    <li>Chatbot(Dialogflow,python,AIML and Pandora)</li>
-    </ul>
-    
-
+ 
+[![Maleficient's GitHub stats](https://github-readme-stats.vercel.app/api?username=swarnakrishnan)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2><b>⭐️From <a href="<a href="https://github.com/swarnakrishnan">Swarna Krishnan K 😃</a></b></h2>
-    
-    
     
 
 
